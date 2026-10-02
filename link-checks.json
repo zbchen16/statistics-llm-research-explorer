@@ -1,0 +1,588 @@
+{
+  "checked": "2026-10-01",
+  "method": "HTTP HEAD; failures need manual verification",
+  "results": [
+    {
+      "url": "https://aclanthology.org/2025.acl-long.452.pdf",
+      "status": 200,
+      "final": "https://aclanthology.org/2025.acl-long.452.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://aclanthology.org/2025.acl-long.452/",
+      "status": 200,
+      "final": "https://aclanthology.org/2025.acl-long.452/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://aclanthology.org/2025.acl-long.782.pdf",
+      "status": 200,
+      "final": "https://aclanthology.org/2025.acl-long.782.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://aclanthology.org/2025.acl-long.782/",
+      "status": 200,
+      "final": "https://aclanthology.org/2025.acl-long.782/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2212.10560",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2212.10560",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2301.09633",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2301.09633",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2301.10226",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2301.10226",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2301.11270",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2301.11270",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2305.18290",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2305.18290",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.04637",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2306.04637",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.04746",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2306.04746",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.05685",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2306.05685",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.10193",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2306.10193",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.12036",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2310.12036",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.13008",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2310.13008",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.01453",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2311.01453",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2402.14992",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2402.14992",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.03208",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2403.03208",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.04132",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2403.04132",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.07008",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2403.07008",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.01245",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2404.01245",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.11018",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2404.11018",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.16455",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2405.16455",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2406.18665",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2406.18665",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.03314",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2408.03314",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.13032",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2410.13032",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.10970",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2501.10970",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.05773",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2502.05773",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.20345",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2509.20345",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.01394",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2510.01394",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.15716",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2510.15716",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.22007",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2510.22007",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.07019",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2512.07019",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.05420",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2601.05420",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.27414",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2603.27414",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.14575",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2604.14575",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29249",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2605.29249",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14425",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.14425",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2212.10560",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2212.10560",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.09633",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2301.09633",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.10226",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2301.10226",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.11270",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2301.11270",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2305.18290",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2305.18290",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.04637",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2306.04637",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.04746",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2306.04746",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.05685",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2306.05685",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.10193",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2306.10193",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.12036",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2310.12036",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2311.01453",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2311.01453",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.14992",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2402.14992",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.03208",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2403.03208",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.04132",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2403.04132",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.01245",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2404.01245",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.11018",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2404.11018",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2405.16455",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2405.16455",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.18665",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2406.18665",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2408.03314",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2408.03314",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.13032",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2410.13032",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.01394",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2510.01394",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.15716",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2510.15716",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.22007",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2510.22007",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.07019",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2512.07019",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2603.27414",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2603.27414",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2605.29249",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2605.29249",
+      "result": "reachable"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2608.14425",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2608.14425",
+      "result": "reachable"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data/",
+      "status": 200,
+      "final": "https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html",
+      "status": 200,
+      "final": "https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/ChengLu1999/generative-augmented-inference",
+      "status": 200,
+      "final": "https://github.com/ChengLu1999/generative-augmented-inference",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/Toby-X/Latency-Response-Theory-Model",
+      "status": 200,
+      "final": "https://github.com/Toby-X/Latency-Response-Theory-Model",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/aangelopoulos/ppi_py",
+      "status": 200,
+      "final": "https://github.com/aangelopoulos/ppi_py",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/blei-lab/circuitry",
+      "status": 200,
+      "final": "https://github.com/blei-lab/circuitry",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yiqunchen/debias-llm-as-a-judge",
+      "status": 200,
+      "final": "https://github.com/yiqunchen/debias-llm-as-a-judge",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yizhongw/self-instruct",
+      "status": 200,
+      "final": "https://github.com/yizhongw/self-instruct",
+      "result": "reachable"
+    },
+    {
+      "url": "https://minimaxi.com/blog/minimax-m25",
+      "status": 200,
+      "final": "https://minimax.cn/blog/minimax-m25",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/5503a7c69d48a2f86fc00b3dc09de686-Paper-Conference.pdf",
+      "status": 200,
+      "final": "https://proceedings.iclr.cc/paper_files/paper/2025/file/5503a7c69d48a2f86fc00b3dc09de686-Paper-Conference.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v235/chiang24b.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v235/chiang24b.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v267/boyeau25a.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v267/boyeau25a.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v267/li25cl.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v267/li25cl.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v306/bashari26a.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v306/bashari26a.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v306/chen26cq.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v306/chen26cq.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v306/lu26am.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v306/lu26am.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v306/sargent26a.html",
+      "status": 200,
+      "final": "https://proceedings.mlr.press/v306/sargent26a.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html",
+      "status": 200,
+      "final": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/boyeau25a/boyeau25a.pdf",
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/boyeau25a/boyeau25a.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25cl/li25cl.pdf",
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25cl/li25cl.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/bashari26a/bashari26a.pdf",
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/bashari26a/bashari26a.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/chen26cq/chen26cq.pdf",
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/chen26cq/chen26cq.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/lu26am/lu26am.pdf",
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/lu26am/lu26am.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf",
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/sargent26a/sargent26a.pdf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://research.google/conferences-and-events/google-at-iclr-2025/",
+      "status": 200,
+      "final": "https://research.google/conferences-and-events/google-at-iclr-2025/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://watchjobs.net/zh/explore/job/c263-e98727228266a2c8/后训练-数据%2F算法-研究员-深度求索",
+      "result": "reachable",
+      "status": 200,
+      "final": "https://watchjobs.net/zh/explore/job/c263-e98727228266a2c8/%E5%90%8E%E8%AE%AD%E7%BB%83-%E6%95%B0%E6%8D%AE%2F%E7%AE%97%E6%B3%95-%E7%A0%94%E7%A9%B6%E5%91%98-%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2"
+    },
+    {
+      "url": "https://watchjobs.net/zh/explore/job/cf066ba4-98ce-4593-bd30-bf5302e437a7/KIMI策略产品经理-推理成本管理-月之暗面",
+      "result": "reachable",
+      "status": 200,
+      "final": "https://watchjobs.net/zh/explore/job/cf066ba4-98ce-4593-bd30-bf5302e437a7/KIMI%E7%AD%96%E7%95%A5%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E7%AE%A1%E7%90%86-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "status": 200,
+      "final": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/publication/synae-a-framework-for-measuring-the-quality-of-synthetic-data-for-tool-calling-agent-evaluations/",
+      "status": 200,
+      "final": "https://www.microsoft.com/en-us/research/publication/synae-a-framework-for-measuring-the-quality-of-synthetic-data-for-tool-calling-agent-evaluations/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.adi6000",
+      "status": 403,
+      "result": "access_restricted",
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2555067",
+      "status": 403,
+      "result": "access_restricted",
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://zhaopin.meituan.com/web/position/detail?highlightType=campus&jobShareType=1&jobUnionId=4683995941",
+      "status": 200,
+      "final": "https://zhaopin.meituan.com/web/position/detail?highlightType=campus&jobShareType=1&jobUnionId=4683995941",
+      "result": "reachable"
+    }
+  ]
+}
